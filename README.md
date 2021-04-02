@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthur530
 
-- 👀 I’m interested in learning everday
+- 👀 I’m interested in learning everyday
 
 - 🌱 I’m currently learning Java and Power BI
 
