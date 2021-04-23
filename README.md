@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arthur530
 
-- 👀 I’m interested in learning everyday
+- 👀 I’m interested in Back-end programming
 
-- 🌱 I’m currently learning Java and Power BI
+- 🌱 I’m currently learning Java 
 
 - 📫 How to reach me: arthur.alegreti@etec.sp.gov.br
 
