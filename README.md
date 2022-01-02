@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java 
 
-- 📫 How to reach me: arthur.alegreti@etec.sp.gov.br
+- 📫 How to reach me: artalegreti@gmail.com
 
 <!---
 Arthur530/Arthur530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
